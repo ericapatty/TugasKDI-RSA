@@ -21,7 +21,7 @@ print("\n================================")
 print("   IMPLEMENTASI ALGORITMA RSA   ")
 print("================================\n")
 
-# ubah bilangan prima sesuai yang diinginkan
+# pilih bilangan prima
 p = 17
 q = 11
 
@@ -75,5 +75,4 @@ for c in cipher:
     print(c, "^", d, "mod", n, "=", p_val, "->", char)
 
 print("\nHasil Dekripsi =", decrypted)
-
 print("\n==== Proses RSA selesai ====\n")
