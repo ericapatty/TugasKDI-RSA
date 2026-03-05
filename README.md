@@ -69,6 +69,7 @@ Program kemudian akan menampilkan proses pembangkitan kunci, enkripsi, dan dekri
 
 ## Contoh Output Program
 
+```
 ================================
 IMPLEMENTASI ALGORITMA RSA
 ================================
@@ -98,6 +99,7 @@ Masukkan pesan yang akan dienkripsi: HALO
 Ciphertext = [...]
 
 Hasil Dekripsi = HALO
+```
 
 
 ## Output Program ketika dijalankan
