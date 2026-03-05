@@ -37,9 +37,11 @@ Program ini mengimplementasikan langkah-langkah dasar RSA sebagai berikut:
 ## Rumus RSA
 
 Proses Enkripsi:
+
 C = M^e mod n
 
 Proses Dekripsi:
+
 M = C^d mod n
 
 Keterangan:
@@ -67,7 +69,6 @@ Program kemudian akan menampilkan proses pembangkitan kunci, enkripsi, dan dekri
 
 ## Contoh Output Program
 
-```
 ================================
 IMPLEMENTASI ALGORITMA RSA
 ================================
@@ -97,7 +98,20 @@ Masukkan pesan yang akan dienkripsi: HALO
 Ciphertext = [...]
 
 Hasil Dekripsi = HALO
-```
+
+
+## Output Program ketika dijalankan
+
+### Proses Awal Program
+![Proses Program](output1.png)
+
+### Hasil Enkripsi dan Dekripsi
+![Hasil Program](output2.png)
+
+
+## Bahasa Pemrograman
+
+Program ini dibuat menggunakan bahasa pemrograman **Python**.
 
 
 ## Author
